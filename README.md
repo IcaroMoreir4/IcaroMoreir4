@@ -8,7 +8,10 @@ Estou cursando a faculdade de Sistemas da Informação 🎓, e meu foco é Front
 <div style="display: inline_block"><br>
   <img align="center" alt="Icaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Icaro-Python" height="37" width="40" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">
   <img align="center" alt="Icaro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Icaro-Python" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
+  <img align="center" alt="Icaro-Python" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </div>
   
   ##
