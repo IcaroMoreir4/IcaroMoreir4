@@ -12,6 +12,7 @@ Estou cursando a faculdade de Sistemas da Informação 🎓, e meu foco é Front
   <img align="center" alt="Icaro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icaro-Python" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
   <img align="center" alt="Icaro-Python" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img align="center" alt="Icaro-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
 </div>
   
   ##
