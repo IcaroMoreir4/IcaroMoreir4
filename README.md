@@ -1,6 +1,6 @@
-### Opa! Me chamo Ícaro Moreira 👋
+### Hey! My name is Ícaro Moreira 👋
 
-Estou cursando a faculdade de Sistemas da Informação 🎓.
+I'm studying Information Systems at university 🎓.
 
 [![Icaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IcaroMoreir4&theme=github_dark&show_icons=true)](https://github.com/IcaroMoreir4/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMoreir4&layout=compact&theme=github_dark)](https://github.com/IcaroMoreir4/github-readme-stats)
