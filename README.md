@@ -14,6 +14,8 @@ I'm studying Information Systems at university 🎓.
   <img align="center" alt="Icaro-Git" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="Icaro-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
   <img align="center" alt="Icaro-Java" height="40" width="40" src="https://www.shareicon.net/download/2016/07/06/106572_java_512x512.png">
+  <img align="center" alt="Icaro-Java" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-226066.png?f=webp">
+  <img align="center" alt="Icaro-Java" height="35" width="35" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
   
   ##
