@@ -9,6 +9,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/36/3b/eb/363bebe77eb1e6f949926e151fd93762.gif" width="140" />
+  <br clear="both">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroMoreir4&theme=github_dark&show_icons=true" alt="Icaro's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMoreir4&layout=compact&theme=github_dark" alt="Top languages" />
 </div>
