@@ -9,6 +9,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/36/3b/eb/363bebe77eb1e6f949926e151fd93762.gif" width="140" />
+  <img src="https://raw.githubusercontent.com/IcaroMoreir4/IcaroMoreir4/output/snake.svg" alt="Snake animation" />
   <br clear="both">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroMoreir4&theme=github_dark&show_icons=true" alt="Icaro's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMoreir4&layout=compact&theme=github_dark" alt="Top languages" />
@@ -37,8 +38,6 @@
   <img height="40" width="40" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </div>
-
----
 
 ##  Meu Portifolio
 <p>Acesse aqui 👇</p>
