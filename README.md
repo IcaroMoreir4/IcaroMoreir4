@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMoreir4&layout=compact&theme=github_dark" alt="Top languages" />
 </div>
 
-##  Technologies
+##  Technologies and Tools
 <div style="display: inline_block;"><br>
   <img height="40" width="40" src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=css" alt="CSS" />
@@ -25,11 +25,6 @@
   <img height="40" width="40" src="https://skillicons.dev/icons?i=php" alt="PHP" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=java" alt="Java" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=react" alt="React" />
-</div>
-
-
-##  Tools
-<div style="display: inline_block;"><br>
   <img height="40" width="40" src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
@@ -39,17 +34,16 @@
   <img height="40" width="40" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </div>
 
-##  Meu Portifolio
-<p>Acesse aqui 👇</p>
-<a target="_blank" href="https://portifolio-jade-alpha.vercel.app/">
-  <img src="https://github.com/IcaroMoreir4/IcaroMoreir4/blob/main/Screenshot%20from%202025-08-19%2016-55-09.png" width="400"/>
-</a>
-
-
-
 ##  Contact
 <div>
   <a href="https://www.linkedin.com/in/icaro-moreira91" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="https://instagram.com/icaro_moreira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:icaromoreira90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
+
+##  Meu Portifolio
+<p>Acesse aqui 👇</p>
+<a target="_blank" href="https://portifolio-jade-alpha.vercel.app/">
+  <img src="https://github.com/IcaroMoreir4/IcaroMoreir4/blob/main/Screenshot%20from%202025-08-19%2016-55-09.png" width="400"/>
+</a>
+
